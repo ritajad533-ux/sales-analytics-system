@@ -1,0 +1,11 @@
+ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region
+P101|Laptop|2|45,000|C001|North
+P102|Mouse, Wireless|5|500|C002|South
+P103|Keyboard|1|1,500|C003|East
+P104|Monitor|1|15,000|C004|West
+P105|USB-C Cable|10|800|C005|North
+P106|External Drive|3|6,000|C006|East
+P107|Webcam|2|3,500|C007|South
+P108|Headphones|4|2,200|C008|West
+P109|Microphone|1|7,500|C009|North
+P110|Graphics Card|1|65,000|C010|South
